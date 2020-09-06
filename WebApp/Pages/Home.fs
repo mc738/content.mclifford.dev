@@ -48,4 +48,4 @@ module Home =
         ]
 
     let footer = Footer.create
-    let create = [ header; main; footer; ]
+    let create = [ header; main; footer ]
