@@ -6,8 +6,8 @@
 
     <ItemGroup>
         <Compile Include="Components.fs" />
-        <Compile Include="Articles\Article.fs" />
         <Folder Include="Components" />
+        <Compile Include="Articles\Article.fs" />
         <Compile Include="Pages\StyleGuide.fs" />
         <Compile Include="Pages\Home.fs" />
         <Compile Include="Remoting.fs" />
