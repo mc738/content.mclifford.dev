@@ -36,4 +36,10 @@ msbuild.wrn
 # Visual Studio 2015
 .vs/
 
+# The release folder.
 Release/
+/WebApp/WebApp.fsproj
+
+# Created by websharper.
+/WebApp/wwwroot/Scripts/
+/WebApp/wwwroot/Content/

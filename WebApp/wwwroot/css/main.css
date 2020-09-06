@@ -1,0 +1,136 @@
+/*The main theme for mclifford.dev*/
+
+:root {
+    --fg: #f8f8f2;
+    --bg: #282a36;
+    --code-bg: #44475a;
+    --code-fg: #bd93f9;
+
+    --pink: #ff79c6;
+    --green: #50fa7b;
+
+    --padding: 1rem;
+    --half-padding: calc(var(--padding) / 2);
+}
+
+.example {
+    width: 70%;
+    margin-left: 15%;
+    background-color: var(--bg);
+    padding: var(--padding);
+    margin-top: var(--padding);
+    margin-bottom: var(--padding);
+}
+
+@media (prefers-color-scheme: light) {
+    :root {
+        --bg: #f8f8f2;
+        --fg: #282a36;
+        --hl: #663399;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    :root {
+        --bg: #282a36;
+        --fg: #f8f8f2;
+        --code: #44475a;
+
+        --pink: #ff79c6;
+
+        --padding: 1rem;
+
+        --half-padding: calc(var(--padding) / 2);
+    }
+}
+
+.dm {
+    --fg: #f8f8f2;
+    --bg: #282a36;
+    --hl: var(--pink);
+}
+
+.lm {
+    --bg: #f8f8f2;
+    --fg: #282a36;
+    --hl: #663399;
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    border:none;
+    box-sizing: border-box;
+    color: var(--fg);
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    font-size: 3rem;
+}
+
+h2 {
+    font-size: 2rem;
+}
+
+h3 {
+    font-size: 1.5rem;
+}
+
+details {
+    padding-left: var(--half-padding);
+    padding-right: var(--half-padding);
+}
+
+summary {
+    /* padding: var(--padding); */
+    display: block;
+    cursor: pointer;
+}
+
+h1, h2, h3, h4, h5, h6, p, small, code {
+    padding-top: var(--half-padding);
+    padding-bottom: var(--half-padding);
+}
+
+.codeblock {
+    width: 70%;
+    display: block;
+    margin-left: 15%;
+    background-color: var(--code-bg);
+    padding: var(--padding);
+}
+
+/* .codeblock * {
+    color: var(--gre);
+} */
+
+pre {
+    font-family: 'Roboto Mono', monospace;
+    background-color: var(--code);
+}
+
+footer {
+    height: 40vh;
+    width: 100%;
+    background-color: var(--code);
+}
+
+.hl {
+    color: var(--hl);
+    font-family: 'Roboto Mono', monospace;
+}
+
+.emp {
+    font-weight: bolder;
+    text-transform: uppercase;
+}
+
+code {
+    font-family: 'Roboto Mono', monospace;
+}
+
+a {
+    color: var(--green);
+}

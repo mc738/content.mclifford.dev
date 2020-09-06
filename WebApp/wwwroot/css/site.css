@@ -1,0 +1,36 @@
+.parallax {
+    /**/
+    background-image: url("../img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg");
+
+    height: 50vh;
+    width: 100%;
+
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+header {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: var(--padding);
+}
+
+#main {
+    background-color: var(--bg);
+    width: 100%;
+    min-height: 50vh;
+}
+
+nav {
+    height: 50px;
+    width: 100%;
+    position: fixed;
+}
+
+html {
+    scroll-behavior: smooth;
+}
