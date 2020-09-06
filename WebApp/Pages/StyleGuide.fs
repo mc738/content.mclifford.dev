@@ -39,7 +39,8 @@ module StyleGuide =
         ]
 
     let header =
-        div [ attr.``class`` "parallax" ] [
+        div [ attr.id "sg-p"
+              attr.``class`` "parallax" ] [
             header [ attr.``class`` "dm" ] [
                 div [] [
                     h1 [] [
@@ -54,15 +55,12 @@ module StyleGuide =
             ]
         ]
 
-    let main = div [ attr.id "main" ] [
-        generalSection
-    ]
+    let main =
+        div [ attr.id "main" ] [
+            generalSection
+        ]
 
     let footer = footer [] []
 
     /// Create the style guide.
-    let create = [
-        header
-        main
-        footer
-    ]
+    let create = [ header; main; footer ]

@@ -6,7 +6,10 @@
 
     <ItemGroup>
         <Compile Include="Components.fs" />
+        <Compile Include="Articles\Article.fs" />
+        <Folder Include="Components" />
         <Compile Include="Pages\StyleGuide.fs" />
+        <Compile Include="Pages\Home.fs" />
         <Compile Include="Remoting.fs" />
         <Compile Include="Client.fs" />
         <Compile Include="Site.fs" />
@@ -14,6 +17,7 @@
           <CopyToPublishDirectory>Always</CopyToPublishDirectory>
         </Content>
         <Compile Include="Startup.fs" />
+        <Content Include="Thanks.md" />
         <None Include="wsconfig.json" />
     </ItemGroup>
 

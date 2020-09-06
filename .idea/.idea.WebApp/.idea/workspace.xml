@@ -23,47 +23,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff41c300-380c-41ca-a26b-f7d0e2819c80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebApp/Client.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Components.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Pages/StyleGuide.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Remoting.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Site.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/Startup.fs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/WebApp.fsproj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/appsettings.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wsconfig.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Collections.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Collections.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Control.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Control.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Core.JavaScript/Runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Core.JavaScript/Runtime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.JavaScript/Cookies.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main/AnimFrame.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main/AnimFrame.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main/Json.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Main/Json.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Sitelets.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Sitelets.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI.Templating.Runtime.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI.Templating.Runtime.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI/closest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.UI/h5f.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Web.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebSharper.Web.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApp/Pages/Home.fs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApp/Thanks.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebApp/wwwroot/img/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebApp.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Pages/StyleGuide.fs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/Pages/StyleGuide.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Site.fs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/Site.fs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/WebApp.fsproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/WebApp.fsproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/wwwroot/Scripts/WebSharper/WebApp.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,12 +59,14 @@
         <option value="$PROJECT_DIR$/WebApp/Theme.fs" />
         <option value="$PROJECT_DIR$/WebApp/WebApp.fsproj" />
         <option value="$PROJECT_DIR$/WebApp/Resources.fs" />
-        <option value="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" />
-        <option value="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" />
         <option value="$PROJECT_DIR$/WebApp/Main.html" />
-        <option value="$PROJECT_DIR$/WebApp/Site.fs" />
-        <option value="$PROJECT_DIR$/WebApp/Pages/StyleGuide.fs" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/WebApp/Thanks.md" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/css/site.css" />
+        <option value="$PROJECT_DIR$/WebApp/Pages/StyleGuide.fs" />
+        <option value="$PROJECT_DIR$/WebApp/Site.fs" />
+        <option value="$PROJECT_DIR$/WebApp/Pages/Home.fs" />
+        <option value="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" />
       </list>
     </option>
   </component>
@@ -153,7 +125,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599405103253</updated>
-      <workItem from="1599405117364" duration="7990000" />
+      <workItem from="1599405117364" duration="10396000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized solution.">
       <created>1599405381566</created>
@@ -162,7 +134,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599405381566</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initialized project and started style guide.">
+      <created>1599414620921</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599414620921</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Initialized project and started style guide.">
+      <created>1599414653098</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1599414653098</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,93 +171,94 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="Initialized solution." />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialized solution." />
+    <MESSAGE value="Initialized project and started style guide." />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialized project and started style guide." />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="158" width="424" height="490" key="FileChooserDialogImpl" timestamp="1599405343711">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="466" y="158" width="424" height="490" key="FileChooserDialogImpl/0.32.1366.736@0.32.1366.736" timestamp="1599405343711" />
-    <state width="1320" height="241" key="GridCell.Tab.0.bottom" timestamp="1599413233410">
+    <state width="1320" height="241" key="GridCell.Tab.0.bottom" timestamp="1599416934889">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599413233410" />
-    <state width="1320" height="241" key="GridCell.Tab.0.center" timestamp="1599413233409">
+    <state width="1320" height="241" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599416934889" />
+    <state width="1320" height="241" key="GridCell.Tab.0.center" timestamp="1599416934888">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1599413233409" />
-    <state width="1320" height="241" key="GridCell.Tab.0.left" timestamp="1599413233409">
+    <state width="1320" height="241" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1599416934888" />
+    <state width="1320" height="241" key="GridCell.Tab.0.left" timestamp="1599416934887">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1599413233409" />
-    <state width="1320" height="241" key="GridCell.Tab.0.right" timestamp="1599413233409">
+    <state width="1320" height="241" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1599416934887" />
+    <state width="1320" height="241" key="GridCell.Tab.0.right" timestamp="1599416934888">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1599413233409" />
-    <state width="1320" height="241" key="GridCell.Tab.1.bottom" timestamp="1599413233001">
+    <state width="1320" height="241" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1599416934888" />
+    <state width="1320" height="241" key="GridCell.Tab.1.bottom" timestamp="1599416934550">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.1.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599413233001" />
-    <state width="1320" height="241" key="GridCell.Tab.1.center" timestamp="1599413233000">
+    <state width="1320" height="241" key="GridCell.Tab.1.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599416934550" />
+    <state width="1320" height="241" key="GridCell.Tab.1.center" timestamp="1599416934549">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.1.center/0.32.1366.736@0.32.1366.736" timestamp="1599413233000" />
-    <state width="1320" height="241" key="GridCell.Tab.1.left" timestamp="1599413233000">
+    <state width="1320" height="241" key="GridCell.Tab.1.center/0.32.1366.736@0.32.1366.736" timestamp="1599416934549" />
+    <state width="1320" height="241" key="GridCell.Tab.1.left" timestamp="1599416934549">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.1.left/0.32.1366.736@0.32.1366.736" timestamp="1599413233000" />
-    <state width="1320" height="241" key="GridCell.Tab.1.right" timestamp="1599413233001">
+    <state width="1320" height="241" key="GridCell.Tab.1.left/0.32.1366.736@0.32.1366.736" timestamp="1599416934549" />
+    <state width="1320" height="241" key="GridCell.Tab.1.right" timestamp="1599416934550">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.1.right/0.32.1366.736@0.32.1366.736" timestamp="1599413233001" />
-    <state width="1320" height="241" key="GridCell.Tab.2.bottom" timestamp="1599413233002">
+    <state width="1320" height="241" key="GridCell.Tab.1.right/0.32.1366.736@0.32.1366.736" timestamp="1599416934550" />
+    <state width="1320" height="241" key="GridCell.Tab.2.bottom" timestamp="1599416934551">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.2.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599413233002" />
-    <state width="1320" height="241" key="GridCell.Tab.2.center" timestamp="1599413233002">
+    <state width="1320" height="241" key="GridCell.Tab.2.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599416934551" />
+    <state width="1320" height="241" key="GridCell.Tab.2.center" timestamp="1599416934550">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.2.center/0.32.1366.736@0.32.1366.736" timestamp="1599413233002" />
-    <state width="1320" height="241" key="GridCell.Tab.2.left" timestamp="1599413233001">
+    <state width="1320" height="241" key="GridCell.Tab.2.center/0.32.1366.736@0.32.1366.736" timestamp="1599416934550" />
+    <state width="1320" height="241" key="GridCell.Tab.2.left" timestamp="1599416934550">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.2.left/0.32.1366.736@0.32.1366.736" timestamp="1599413233001" />
-    <state width="1320" height="241" key="GridCell.Tab.2.right" timestamp="1599413233002">
+    <state width="1320" height="241" key="GridCell.Tab.2.left/0.32.1366.736@0.32.1366.736" timestamp="1599416934550" />
+    <state width="1320" height="241" key="GridCell.Tab.2.right" timestamp="1599416934550">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.2.right/0.32.1366.736@0.32.1366.736" timestamp="1599413233002" />
-    <state width="1320" height="241" key="GridCell.Tab.3.bottom" timestamp="1599413233004">
+    <state width="1320" height="241" key="GridCell.Tab.2.right/0.32.1366.736@0.32.1366.736" timestamp="1599416934550" />
+    <state width="1320" height="241" key="GridCell.Tab.3.bottom" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.3.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599413233004" />
-    <state width="1320" height="241" key="GridCell.Tab.3.center" timestamp="1599413233003">
+    <state width="1320" height="241" key="GridCell.Tab.3.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
+    <state width="1320" height="241" key="GridCell.Tab.3.center" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.3.center/0.32.1366.736@0.32.1366.736" timestamp="1599413233003" />
-    <state width="1320" height="241" key="GridCell.Tab.3.left" timestamp="1599413233003">
+    <state width="1320" height="241" key="GridCell.Tab.3.center/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
+    <state width="1320" height="241" key="GridCell.Tab.3.left" timestamp="1599416934551">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.3.left/0.32.1366.736@0.32.1366.736" timestamp="1599413233003" />
-    <state width="1320" height="241" key="GridCell.Tab.3.right" timestamp="1599413233003">
+    <state width="1320" height="241" key="GridCell.Tab.3.left/0.32.1366.736@0.32.1366.736" timestamp="1599416934551" />
+    <state width="1320" height="241" key="GridCell.Tab.3.right" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.3.right/0.32.1366.736@0.32.1366.736" timestamp="1599413233003" />
-    <state width="1320" height="241" key="GridCell.Tab.4.bottom" timestamp="1599413233005">
+    <state width="1320" height="241" key="GridCell.Tab.3.right/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
+    <state width="1320" height="241" key="GridCell.Tab.4.bottom" timestamp="1599416934553">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.4.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599413233005" />
-    <state width="1320" height="241" key="GridCell.Tab.4.center" timestamp="1599413233004">
+    <state width="1320" height="241" key="GridCell.Tab.4.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599416934553" />
+    <state width="1320" height="241" key="GridCell.Tab.4.center" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.4.center/0.32.1366.736@0.32.1366.736" timestamp="1599413233004" />
-    <state width="1320" height="241" key="GridCell.Tab.4.left" timestamp="1599413233004">
+    <state width="1320" height="241" key="GridCell.Tab.4.center/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
+    <state width="1320" height="241" key="GridCell.Tab.4.left" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.4.left/0.32.1366.736@0.32.1366.736" timestamp="1599413233004" />
-    <state width="1320" height="241" key="GridCell.Tab.4.right" timestamp="1599413233005">
+    <state width="1320" height="241" key="GridCell.Tab.4.left/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
+    <state width="1320" height="241" key="GridCell.Tab.4.right" timestamp="1599416934552">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.4.right/0.32.1366.736@0.32.1366.736" timestamp="1599413233005" />
+    <state width="1320" height="241" key="GridCell.Tab.4.right/0.32.1366.736@0.32.1366.736" timestamp="1599416934552" />
     <state x="278" y="135" width="800" height="536" key="Rider.ProjectTemplateDialog.Size" timestamp="1599405411620">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
@@ -280,6 +267,10 @@
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="441" y="91" width="473" height="624" key="RollbackChangesDialog/0.32.1366.736@0.32.1366.736" timestamp="1599405278195" />
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599414700507">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2/0.32.1366.736@0.32.1366.736" timestamp="1599414700507" />
     <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1599407909834">
       <screen x="0" y="32" width="1366" height="736" />
     </state>

@@ -42,10 +42,7 @@ module Site =
     open WebSharper.UI.Html
 
     let HomePage ctx =
-        Templating.Main ctx EndPoint.Home "Home" [
-            h1 [] [text "Say Hi to the server!"]
-            div [] [client <@ Client.Main() @>]
-        ]
+        Templating.Main ctx EndPoint.Home "Home" Home.create
 
     let AboutPage ctx =
         Templating.Main ctx EndPoint.About "About" [

@@ -1,7 +1,4 @@
 .parallax {
-    /**/
-    background-image: url("../img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg");
-
     height: 50vh;
     width: 100%;
 
@@ -9,6 +6,15 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+#home-p {
+    background-image: url("../img/sebastian-unrau-sp-p7uuT0tw-unsplash.jpg");
+}
+
+#sg-p {
+    /**/
+    background-image: url("../img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg");
 }
 
 header {
