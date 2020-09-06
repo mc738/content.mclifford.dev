@@ -22,9 +22,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff41c300-380c-41ca-a26b-f7d0e2819c80" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/WebApp/Pages/Home.fs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/Pages/Home.fs" afterDir="false" />
-    </list>
+    <list default="true" id="ff41c300-380c-41ca-a26b-f7d0e2819c80" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +37,10 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///home/max/Projects/content.mclifford.dev/WebApp/Pages/Home.fs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/max/Projects/content.mclifford.dev/WebApp/Pages/Home.fs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -123,7 +125,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599405103253</updated>
       <workItem from="1599405117364" duration="12204000" />
-      <workItem from="1599425764192" duration="6377000" />
+      <workItem from="1599425764192" duration="6704000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized solution.">
       <created>1599405381566</created>
@@ -174,7 +176,28 @@
       <option name="project" value="LOCAL" />
       <updated>1599432245944</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated home title.">
+      <created>1599432326549</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1599432326549</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated home title.">
+      <created>1599432542903</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1599432542903</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Removed unneeded references.">
+      <created>1599432626153</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1599432626153</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +225,9 @@
     <MESSAGE value="Added Article.fs." />
     <MESSAGE value="Fixed directory order." />
     <MESSAGE value="Added article rendering." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added article rendering." />
+    <MESSAGE value="Updated home title." />
+    <MESSAGE value="Removed unneeded references." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unneeded references." />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="158" width="424" height="490" key="FileChooserDialogImpl" timestamp="1599405343711">
@@ -297,10 +322,10 @@
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="441" y="91" width="473" height="624" key="RollbackChangesDialog/0.32.1366.736@0.32.1366.736" timestamp="1599405278195" />
-    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599432250057">
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599432551628">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2/0.32.1366.736@0.32.1366.736" timestamp="1599432250057" />
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2/0.32.1366.736@0.32.1366.736" timestamp="1599432551628" />
     <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1599407909834">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
