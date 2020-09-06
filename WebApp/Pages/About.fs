@@ -1,10 +1,7 @@
 namespace WebApp.Pages
 
 module About =
-    open WebSharper
-    open WebSharper.JavaScript
-    open WebSharper.UI
-    open WebSharper.UI.Client
+    
     open WebSharper.UI.Html
     open WebApp.Components
     
