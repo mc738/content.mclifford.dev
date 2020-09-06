@@ -37,7 +37,7 @@ module Home =
               attr.``class`` "parallax" ] [
             header [] [
                 div [] [
-                    h1 [] [ text "mclifford.dev Content" ]
+                    h1 [] [ text "Content" ]
                     p [] [
                         span [ attr.``class`` "hl" ] [
                             text "Hello, World!"
