@@ -22,7 +22,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff41c300-380c-41ca-a26b-f7d0e2819c80" name="Default Changelist" comment="" />
+    <list default="true" id="ff41c300-380c-41ca-a26b-f7d0e2819c80" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApp/Pages/About.fs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApp/Pages/About.fs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +39,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -61,11 +69,11 @@
         <option value="$PROJECT_DIR$/WebApp/Main.html" />
         <option value="$PROJECT_DIR$/WebApp/Site.fs" />
         <option value="$PROJECT_DIR$/WebApp/wwwroot/css/main.css" />
-        <option value="$PROJECT_DIR$/WebApp/Pages/About.fs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/Articles.fs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/Article.fs" />
         <option value="$PROJECT_DIR$/WebApp/Components/Footer.fs" />
         <option value="$PROJECT_DIR$/WebApp/Pages/Home.fs" />
+        <option value="$PROJECT_DIR$/WebApp/Pages/About.fs" />
       </list>
     </option>
   </component>
@@ -125,7 +133,7 @@
       <option name="presentableId" value="Default" />
       <updated>1599405103253</updated>
       <workItem from="1599405117364" duration="12204000" />
-      <workItem from="1599425764192" duration="6704000" />
+      <workItem from="1599425764192" duration="7208000" />
     </task>
     <task id="LOCAL-00001" summary="Initialized solution.">
       <created>1599405381566</created>
@@ -197,7 +205,21 @@
       <option name="project" value="LOCAL" />
       <updated>1599432626153</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Removed unneeded references.">
+      <created>1599432767097</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1599432767097</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Removed more unneeded references.">
+      <created>1599432912663</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1599432912663</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -227,29 +249,30 @@
     <MESSAGE value="Added article rendering." />
     <MESSAGE value="Updated home title." />
     <MESSAGE value="Removed unneeded references." />
-    <option name="LAST_COMMIT_MESSAGE" value="Removed unneeded references." />
+    <MESSAGE value="Removed more unneeded references." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed more unneeded references." />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="158" width="424" height="490" key="FileChooserDialogImpl" timestamp="1599405343711">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="466" y="158" width="424" height="490" key="FileChooserDialogImpl/0.32.1366.736@0.32.1366.736" timestamp="1599405343711" />
-    <state width="1320" height="241" key="GridCell.Tab.0.bottom" timestamp="1599431727749">
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom" timestamp="1599432966593">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599431727749" />
-    <state width="1320" height="241" key="GridCell.Tab.0.center" timestamp="1599431727749">
+    <state width="1320" height="171" key="GridCell.Tab.0.bottom/0.32.1366.736@0.32.1366.736" timestamp="1599432966593" />
+    <state width="1320" height="171" key="GridCell.Tab.0.center" timestamp="1599432966589">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1599431727749" />
-    <state width="1320" height="241" key="GridCell.Tab.0.left" timestamp="1599431727748">
+    <state width="1320" height="171" key="GridCell.Tab.0.center/0.32.1366.736@0.32.1366.736" timestamp="1599432966589" />
+    <state width="1320" height="171" key="GridCell.Tab.0.left" timestamp="1599432966588">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1599431727748" />
-    <state width="1320" height="241" key="GridCell.Tab.0.right" timestamp="1599431727749">
+    <state width="1320" height="171" key="GridCell.Tab.0.left/0.32.1366.736@0.32.1366.736" timestamp="1599432966588" />
+    <state width="1320" height="171" key="GridCell.Tab.0.right" timestamp="1599432966592">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state width="1320" height="241" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1599431727749" />
+    <state width="1320" height="171" key="GridCell.Tab.0.right/0.32.1366.736@0.32.1366.736" timestamp="1599432966592" />
     <state width="1320" height="241" key="GridCell.Tab.1.bottom" timestamp="1599431727754">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
@@ -322,10 +345,14 @@
       <screen x="0" y="32" width="1366" height="736" />
     </state>
     <state x="441" y="91" width="473" height="624" key="RollbackChangesDialog/0.32.1366.736@0.32.1366.736" timestamp="1599405278195" />
-    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599432551628">
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2" timestamp="1599433068842">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
-    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2/0.32.1366.736@0.32.1366.736" timestamp="1599432551628" />
+    <state x="278" y="136" width="800" height="534" key="Vcs.Push.Dialog.v2/0.32.1366.736@0.32.1366.736" timestamp="1599433068842" />
+    <state x="416" y="300" width="524" height="205" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599433038176">
+      <screen x="0" y="32" width="1366" height="736" />
+    </state>
+    <state x="416" y="300" width="524" height="205" key="git4idea.remote.GitConfigureRemotesDialog/0.32.1366.736@0.32.1366.736" timestamp="1599433038176" />
     <state x="347" y="175" width="672" height="677" key="run.anything.popup" timestamp="1599407909834">
       <screen x="0" y="32" width="1366" height="736" />
     </state>
