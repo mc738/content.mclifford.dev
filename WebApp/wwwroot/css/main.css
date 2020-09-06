@@ -37,10 +37,6 @@
         --code: #44475a;
 
         --pink: #ff79c6;
-
-        --padding: 1rem;
-
-        --half-padding: calc(var(--padding) / 2);
     }
 }
 
@@ -146,4 +142,10 @@ a {
 .s-3 {
     width: calc(100% / 3);
     height: 100%;
+}
+
+.article {
+    padding: var(--padding);
+    width: 70%;
+    margin-left: 15%;
 }

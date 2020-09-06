@@ -127,4 +127,5 @@ module Article =
         // Add the title and sections together.
         let article = title :: summary :: sections
 
-        div [ attr.``class`` "article" ] article
+        // TODO add header to article?
+        [ div [ attr.``class`` "article" ] article ]

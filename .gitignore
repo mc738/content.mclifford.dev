@@ -43,3 +43,4 @@ Release/
 # Created by websharper.
 /WebApp/wwwroot/Scripts/
 /WebApp/wwwroot/Content/
+/WebApp/wwwroot/img/

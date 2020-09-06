@@ -17,6 +17,16 @@
     background-image: url("../img/jeremy-thomas-4dpAqfTbvKA-unsplash.jpg");
 }
 
+#about-p {
+    /**/
+    background-image: url("../img/jaanus-jagomagi-Dymu1WiZVko-unsplash.jpg");
+}
+
+#article-p {
+    /**/
+    background-image: url("../img/janko-ferlic-sfL_QOnmy00-unsplash.jpg");
+}
+
 header {
     height: 100%;
     width: 100%;

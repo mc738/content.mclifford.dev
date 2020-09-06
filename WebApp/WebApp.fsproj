@@ -5,11 +5,15 @@
     </PropertyGroup>
 
     <ItemGroup>
-        <Compile Include="Components.fs" />
-        <Folder Include="Components" />
+        <Compile Include="Components\Footer.fs" />
         <Compile Include="Articles\Article.fs" />
+        <Compile Include="Articles\HelloWorld.fs" />
         <Compile Include="Pages\StyleGuide.fs" />
         <Compile Include="Pages\Home.fs" />
+        <Compile Include="Pages\About.fs" />
+        <Compile Include="Pages\Articles.fs" />
+        <Compile Include="Pages\NotFound.fs" />
+        <Compile Include="Pages\Article.fs" />
         <Compile Include="Remoting.fs" />
         <Compile Include="Client.fs" />
         <Compile Include="Site.fs" />
